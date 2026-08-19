@@ -1,0 +1,10 @@
+{
+  "description": "Create functional web designs with intuitive navigation using your color palette and PDF prototype, streamlining the design process for developers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
